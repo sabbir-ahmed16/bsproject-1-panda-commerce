@@ -49,3 +49,12 @@
   background-color: #fff;
   border-top: none;
 }
+#subscribe {
+  height: 300px;
+}
+#subscribe input {
+  margin: 10px 0;
+}
+footer p {
+  text-align: center;
+}
